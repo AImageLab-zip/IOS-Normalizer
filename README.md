@@ -2,8 +2,6 @@
 
 Minimal scan orientation normalizer.
 
-Output orientation reference:
-
 ![Normalization model](assets/IOS-Normalizer.png)
 
 The repository keeps the user-facing single-scan entry point at the root:
